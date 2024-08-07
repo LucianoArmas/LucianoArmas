@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
 
+- 👨‍💻 Software Developer
+
+- 📚 System Engineering Student
+  
 - 🔭 Currently working on **personal projects**
 
 - 💼 [My Portfolio](portfoliolucianoarmas.github.io)

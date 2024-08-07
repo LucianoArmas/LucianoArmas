@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
+
 - 🔭 Currently working on **personal projects**
 
-- 💼 Portfolio [portfoliolucianoarmas.github.io](portfoliolucianoarmas.github.io)
+- 💼 [My Portfolio](portfoliolucianoarmas.github.io)
 
 - 📫 How to reach me **lucianoarmas11@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1_utRSkZAmQDQXFUT0YZWOsIWE7zwWOQi/view?usp=sharing](https://drive.google.com/file/d/1_utRSkZAmQDQXFUT0YZWOsIWE7zwWOQi/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1_utRSkZAmQDQXFUT0YZWOsIWE7zwWOQi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
